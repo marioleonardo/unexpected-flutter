@@ -1,0 +1,12 @@
+# ciao 
+POST https://just-commonly-chigger.ngrok-free.app/api/points
+Content-Type: application/json
+
+{
+   "label": "String",
+   "lat": 2.0,
+   "lng": 3.0
+}
+
+###ciao
+GET https://just-commonly-chigger.ngrok-free.app/api/points
